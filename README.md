@@ -1,2 +1,3 @@
 # Hough-Transform
-My own Hough transform implementation in python from scratch.
+My own implementation of Hough transform in python from scratch.
+Done to stress my own understanding of the algorithm.
